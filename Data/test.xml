@@ -1,0 +1,7 @@
+<suite name="testingSuite" verbose="1">
+	<test name="Testing_New_Account_Feature">
+		<login>demo@techfios.com</login>
+		<password>abc123</password>
+		<price>200</price>
+	</test>
+</suite>
